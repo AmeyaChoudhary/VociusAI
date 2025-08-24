@@ -37,7 +37,7 @@ HOP_LENGTH    = 512
 
 
 # ───────────────────────────────────────────────────────────────────────────────
-# Helper — run diarization when JSON not supplied
+# Helper — run diarization when JSON not supplied, testing comment
 # ───────────────────────────────────────────────────────────────────────────────
 def run_diarization(audio: Path, work_dir: Path,
                     aai_key: str, max_speakers: int) -> Path:
