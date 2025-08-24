@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+requests
+numpy
+librosa
+# parselmouth is optional; install only if you want pitch variance
+# praat-parselmouth
